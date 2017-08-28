@@ -6,12 +6,7 @@
  * The exact commands for these are "telnet 127.0.0.1 2500" and "openssl s_client -host 127.0.0.0 -port 2500" respectively.
  */
 #include <iostream>
-#include <stdlib.h>
 #include <string.h>
-#include <unistd.h>
-#include <sys/types.h>
-#include <sys/socket.h>
-#include <netinet/in.h>
 #include "TestImplementation.h"
 
 using namespace std;

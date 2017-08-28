@@ -2,7 +2,7 @@
 #ifndef TESTIMPLEMENTATION
 #define TESTIMPLEMENTATION
 
-#include "ServerSocket/SocketPp.h"
+#include "SimpleSocketServer/SocketPp.h"
 /**
  * @brief      Implementation example for the Connection ABS.
  */
